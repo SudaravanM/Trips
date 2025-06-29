@@ -115,10 +115,7 @@ Option 2: South + Central Vietnam (Food & Scenic Coastal Vibes)
 
 Domestic flights in Vietnam are cheap and save you from long train/bus rides. Booking a private car for short transfers (e.g., Hue to Da Nang) can also make travel more comfortable for your family.
 
-## 🇻🇳 **Things To Do in Each City – Vietnam Trip (Friends Edition)**
-
-Hey all! Here's a rough plan for what we can do in each city. This mixes in culture, food, chill spots, and fun group stuff. It’s spaced out so we’re not constantly rushing, but still covering all the good parts.
-
+## 🇻🇳 **Things To Do in Each City – Vietnam Trip**
 ---
 
 ###  **Hanoi** (2.5 – 3.5 days)
