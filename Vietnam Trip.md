@@ -1,13 +1,17 @@
-Date : 25/07 - 02/08
+# Dates : 25/07/2025 - 02/08/2025
+### ₹1.000 INR = 304.8 VND as on 30-06-2025 | [Currency Converter](Currency Converter: https://wise.com/in/currency-converter/inr-to-vnd-rate)
 
-### Gang :
-1. Tamil
-2. Ramzz
-3. Kaousheik
-4. Hemanth
-5. Naren
-6. Navnithan
-7. Cibi
+🌟 Vietnam Gang Roster
+Tamil 😎 
+Ramzz  🧁
+Cow 💀
+Maavu 🍺
+Boss 😤 
+Nami 💪
+Cibi 💃
+
+Vietnam is in the **Indochina Time (ICT)** zone, which is **UTC +7**.  
+India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
 
 ## Checklist for everyone
 - [ ] Get Passport
@@ -17,6 +21,7 @@ Date : 25/07 - 02/08
 - [ ] Install necessary apps (Grab, Maps, etc.)	
 - [ ] Get local currency or travel card	
 - [ ] Book accommodations 
+- [ ] Should we get Insurance (?)
 
 ---
 # ✅ How to Apply for a Vietnam Visa
@@ -24,7 +29,7 @@ Date : 25/07 - 02/08
 ###  Visa Portal Links:
 
 * [Official Portal 1](https://thithucdientu.gov.vn/login)
-* [Official Portal 2](https://evisa.gov.vn/)
+* [Official Portal 2](https://evisa.gov.vn/) (English)
 
 **Port of Entry Options**:
 
@@ -58,7 +63,7 @@ Date : 25/07 - 02/08
 
 ---
 
-### Section 6 – Trip Details (IMP):
+### ❗Section 6 – Trip Details 
 
 * **Purpose of Entry**: Tourism
 * **Residential Address**: TBD *(use your hotel’s address)*
@@ -80,24 +85,30 @@ Date : 25/07 - 02/08
 
 ---
 
-# Travel Plans
+## **Vietnam Itinerary Overview**
 
-Focus on **North → Central → South** flow (other way round):
-- **Hanoi**
-- **Halong Bay**
-- **Hue**
-- **Da Nang**
-- **Hoi An**
-- **Ho Chi Minh City**
-- **Mekong Delta (Day trip)**
+Get an E-sim or Sim after landing out of Airport 
 
-| Region      | Cities / Places                           | Notes                                   |
-| ----------- | ----------------------------------------- | --------------------------------------- |
-| **North**   | ✅ Hanoi, ✅ Halong Bay                     | Capital, rich culture, natural wonder   |
-| **Central** | ✅ Hue, ✅ Da Nang, ✅ Hoi An                | Imperial history, beaches, lantern town |
-| **South**   | ✅ Ho Chi Minh City (HCMC), ✅ Mekong Delta | Big city energy + river life            |
+**Travel Flow:**  
+✅ **South → Central → North** (our actual plan)  
+_(Opposite of the typical North → South route)_
 
-Reddit Suggestions:
+---
+### Travel Route & Focus:
+
+- **Start:** Ho Chi Minh City (South)
+- **Then:** Mekong Delta (day trip from HCMC)
+- **Move Up To:** Hoi An → Da Nang → Hue (Central)
+- **End With:** Hanoi → Halong Bay (North)
+---
+### Regional Breakdown
+
+| **Region**  | **Cities / Places**                       | **Notes**                                    |
+| ----------- | ----------------------------------------- | -------------------------------------------- |
+| **South**   | ✅ Ho Chi Minh City (HCMC), ✅ Mekong Delta | Urban buzz, history, street food, river life |
+| **Central** | ✅ Hoi An, ✅ Da Nang, ✅ Hue                | Lantern-lit streets, beaches, imperial vibes |
+| **North**   | ✅ Hanoi, ✅ Halong Bay                     | Capital charm, Old Quarter, limestone cliffs |
+### Reddit Suggestions:
   
 Here are my suggestions when it comes to planning [where to go in Vietnam](https://tourteller.com/blog/?s=vietnam&utm_source=reddit_organic&utm_medium=social&utm_campaign=vietnam_travel): 
 
@@ -115,6 +126,7 @@ Option 2: South + Central Vietnam (Food & Scenic Coastal Vibes)
 
 Domestic flights in Vietnam are cheap and save you from long train/bus rides. Booking a private car for short transfers (e.g., Hue to Da Nang) can also make travel more comfortable for your family.
 
+
 ## 🇻🇳 **Things To Do in Each City – Vietnam Trip**
 ---
 
@@ -124,11 +136,11 @@ Our intro to Vietnam — lively, chaotic in a good way, and full of amazing food
 **Things to do:**
 
 * Walk around the **Old Quarter**, especially at night.
+* Hanoi Train Street
 * Chill at **Hoan Kiem Lake** and check out **Ngoc Son Temple**.
 * Hit up **Beer Street (Ta Hien)** — super fun vibes, packed with locals and tourists.
 * Food is a big deal here: **Pho**, **Bun Cha**, **egg coffee** — we’re going all in.
-
----
+* Restaurant : The Note Cafe
 
 ### **Halong Bay** (1 full day)
 
@@ -137,9 +149,7 @@ This one’s a no-brainer.
 * Book a **Halong Bay cruise** — either a full day or overnight (overnight is more fun, includes kayaking, chill time, and sunset party vibes).
 * It’s super scenic — limestone cliffs, emerald water, all that good stuff.
 
----
-
-###  **Hue**
+### **Hue**
 
 We’ll fly or train here from Hanoi. It's a smaller, historic city — quieter than the others but worth a quick stop.
 **To do:**
@@ -148,9 +158,9 @@ We’ll fly or train here from Hanoi. It's a smaller, historic city — quieter 
 * Visit **Thien Mu Pagoda**, maybe take a quick boat ride on the **Perfume River**.
 * Good for photos and chill history time.
 
----
-
-###  **Da Nang**
+### **Da Nang**
+Preferrable on a Friday so that, Dragon breaths🔥
+1hr from Hoi An
 
 More modern and relaxed. We won’t spend too long here, maybe half a day.
 **Vibe:**
@@ -159,34 +169,52 @@ More modern and relaxed. We won’t spend too long here, maybe half a day.
 * Big expat and digital nomad scene.
 * Tbh, **Dragon Bridge** is kind of overrated, but cool to see if we’re passing by.
 * **Golden Hand Bridge** at Ba Na Hills is Instagram-famous but touristy. Optional stop if we’re into it.
+* Motor Bike Tour (?)
+* Marble Mountains
 
----
-
-###  **Hoi An** (Highly recommended – 1 to 2 days)
+### **Hoi An** (Highly recommended – 1 to 2 days)
 
 This one’s a gem. Super cute, colorful, romantic — even for a group trip, it's great.
 **Things we should do:**
-
 * Explore the **Ancient Town** (especially magical at night with lanterns everywhere).
 * Take a **basket boat ride** or go through the coconut forest.
 * Hop between cafés — it has a nice chill vibe.
+* Stay Option : Cheerful Hoi An Hostel (Free cycle and free tour guide)
+* Can go for random food tour using cycle
+* Coffee making class
 * Optional: stay the night or do a long day trip from Da Nang. Up to us, but ideally we give it 1–2 days.
+* Lang Co Beach
+* Restaurant : UU Dam Chay Vegan (🟩)
+* Dishes : Banh Can, Xi-Ma (pronounced as "seema"), Cao Lau
+* Stay : Preferable in Ancient Old town than near beach
 
 >  Total time for **Hoi An + Da Nang**: \~2.5 days
 
----
+### **Nha Trang** (Optional – Russian Town)
+
+If we’re up for it, we can take an **overnight train from HCMC** (\~9 hrs, around ₹2100).
+
+* Super chill beach town.
+* An Bang Beach
+* Mostly just relax, maybe try **scuba diving** or a spa day.
+* Not mandatory, but an option if we’re ahead of schedule or want to extend the trip.
+* Restaurants : Greek Souvlaki Nha Trang, La Cala - Gusto Italiano
+* Stay : Aaron Hotel (Expensive)
+
+Nha Trang ✈️ Da Nang 🛻 Hoi An
 
 ### **Ho Chi Minh City (HCMC)** (~2 days)
 
 Faster-paced, more modern — kind of like a mix of Hanoi’s buzz with Da Nang’s vibe.
 **What we can do:**
 
-* Go for a **city tour** — check out the War Remnants Museum, Central Post Office, Reunification Palace, etc.
+* Go for a **city tour** — check out the War Remnants Museum(3 hrs), Central Post Office, Reunification Palace.
 * Chill at a rooftop café or bar — some cool views here.
+* Landmark 81
+* Restruant: Bhan Mi (Huynh Hoa)
+* Stay: Somewhere between District 1 between District 4
 * Nightlife? **Bui Vien Street** is wild — music, bars, and chaos in a fun way.
-* Optional: **Cu Chi Tunnels** — depends on interest, but could be a cool half-day thing. Check via [Gadt Travel](https://gadttravel.com).
-
----
+* Optional: **Cu Chi Tunnels** — depends on interest, but could be a cool half-day thing. Check via [Gadt Travel](https://gadttravel.com). Very famous but 8 hrs by drive from HCMC.
 
 ### **Mekong Delta** (Day Trip)
 
@@ -194,16 +222,6 @@ We’ll probably do this as a day trip from HCMC.
 
 * Chill river rides, coconut candy, floating markets.
 * Slower pace, scenic, good for one relaxing day before flying out.
-
----
-
-### **Nha Trang** (Optional – if we want to add beach time)
-
-If we’re up for it, we can take an **overnight train from HCMC** (\~9 hrs, around ₹2100).
-
-* Super chill beach town.
-* Mostly just relax, maybe try **scuba diving** or a spa day.
-* Not mandatory, but an option if we’re ahead of schedule or want to extend the trip.
 
 ---
 
