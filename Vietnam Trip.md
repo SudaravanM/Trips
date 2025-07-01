@@ -1,18 +1,19 @@
 # Dates : 25/07/2025 - 02/08/2025
 ### ₹1.000 INR = 304.8 VND as on 30-06-2025 | [Currency Converter](Currency Converter: https://wise.com/in/currency-converter/inr-to-vnd-rate)
 
-🌟 Vietnam Gang Roster
-Tamil 😎 
-Ramzz  🧁
-Cow 💀
-Maavu 🍺
-Boss 😤 
-Nami 💪
-Cibi 💃
+🌟 Vietnam Gang Roster:
+1. Tamil 😎 
+2. Ramzz  🧁
+3. Cow 💀
+4. Maavu 🍺
+5. Boss 😤 
+6. Nami 💪
+7. Cibi 💃
 
 Vietnam is in the **Indochina Time (ICT)** zone, which is **UTC +7**.  
 India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
 
+![[Pasted image 20250701145003.png]]
 ## Checklist for everyone
 - [ ] Get Passport
 - [ ] Get Visa
@@ -126,6 +127,24 @@ Option 2: South + Central Vietnam (Food & Scenic Coastal Vibes)
 
 Domestic flights in Vietnam are cheap and save you from long train/bus rides. Booking a private car for short transfers (e.g., Hue to Da Nang) can also make travel more comfortable for your family.
 
+---
+
+# Trip Budget Est.
+
+Fixed Costs:
+- Visa - 25 USD
+- Flight ~ 23K INR (2K extra for checking luggage's)
+- SIM - 1000 INR
+- Train - 2100 (2nd Class)
+- Bus - 1300 
+- Scooty Rent - 300-500 INR
+- Food/Day - 250-300 INR pp (Restaurants) | 60-100 INR (Street Foods)
+- Accommodation - Hostel --  500-1.5K pp/per-night | Hotels -- 2K-3K pp/per-night 
+
+Variable Costs:
+- Tours and Tickets of places are better booked via some agency
+
+
 
 ## 🇻🇳 **Things To Do in Each City – Vietnam Trip**
 ---
@@ -229,7 +248,7 @@ We’ll probably do this as a day trip from HCMC.
 
 * **Flights** between cities are cheap and save time (VietJet, Bamboo Airways, Vietnam Airlines).
 * **Trains** are good for scenic routes (e.g., Hanoi to Hue, HCMC to Nha Trang).
-* Use **Grab** (like Uber) for local transport.
+- Local: **Grab**
 
 ---
 
@@ -238,7 +257,7 @@ We’ll probably do this as a day trip from HCMC.
 * **Pho** (pronounced “fa”) — it’s everywhere.
 * **Banh Mi** — best breakfast.
 * **Egg Coffee** — Hanoi’s special.
-* Also try spring rolls, bun cha, banh xeo, and anything that smells good from a street cart.
+* Also try Spring rolls, Bun Cha, Banh Xeo, and anything that smells good from a street cart.
 
 ---
 
@@ -252,6 +271,6 @@ We’ll probably do this as a day trip from HCMC.
 
 ## **Cash & ATMs**
 
-* Carry some local cash. Not every place accepts card.
+* Carry VND cash (not all accept card)
 * Check which **bank ATMs** your card works with (to avoid crazy fees).
 * Try to avoid shady or empty-looking restaurants. Go where locals and tourists are actually eating.
