@@ -13,7 +13,7 @@
 Vietnam is in the **Indochina Time (ICT)** zone, which is **UTC +7**.  
 India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
 
-![[Pasted image 20250701145003.png]]
+![](Image/Pasted%20image%2020250701145003.png)
 ## Checklist for everyone
 - [ ] Get Passport
 - [ ] Get Visa
