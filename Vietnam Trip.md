@@ -7,17 +7,16 @@
 3. Cow 💀
 4. Maavu 🍺
 5. Boss 😤 
-6. Nami 💪
-7. Cibi 💃
+6. Cibi 💃
 
 Vietnam is in the **Indochina Time (ICT)** zone, which is **UTC +7**.  
 India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
 
 ![[Pasted image 20250701145003.png]]
 ## Checklist for everyone
-- [ ] Get Passport
-- [ ] Get Visa
-- [ ] Book Flight Tickets
+- [x] Get Passport
+- [x] Get Visa
+- [x] Book Flight Tickets
 - [ ] Budget estimation & cost split	
 - [ ] Install necessary apps (Grab, Maps, etc.)	
 - [ ] Get local currency or travel card	
@@ -89,6 +88,7 @@ India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
 ## **Vietnam Itinerary Overview**
 
 Get an E-sim or Sim after landing out of Airport 
+
 
 **Travel Flow:**  
 ✅ **South → Central → North** (our actual plan)  
@@ -265,6 +265,9 @@ We’ll probably do this as a day trip from HCMC.
 
 * **Grab** – for rides.
 * **Klook** – book tours (a little pricey, but safe and reliable).
+* GoJek
+* GetYourGuide
+* Waze Map
 * **Google Maps** – always check restaurant reviews before eating.
 
 ---
@@ -274,3 +277,142 @@ We’ll probably do this as a day trip from HCMC.
 * Carry VND cash (not all accept card)
 * Check which **bank ATMs** your card works with (to avoid crazy fees).
 * Try to avoid shady or empty-looking restaurants. Go where locals and tourists are actually eating.
+
+![[Pasted image 20250702002926.png]]
+
+
+Things to check for:
+- [Hon Thom Cable Car](https://www.tripadvisor.in/Attraction_Review-g12520037-d13563044-Reviews-Hon_Thom_Cable_Car-An_Thoi_Phu_Quoc_Island_Kien_Giang_Province.html)
+- Ba Na hills Rope Care
+
+### 🚡 Vietnam Ropeway Showdown: Ba Na Hills vs Hon Thom
+
+| **Feature**            | **Ba Na Hills Ropeway** (Da Nang)                                      | **Hon Thom Cable Car** (Phú Quốc Island)                       |
+| ---------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 📍 **Location**        | **Da Nang, Central Vietnam**                                           | **Phú Quốc Island, South Vietnam**                             |
+| 🏞️ **Setting**        | Lush **mountains**, French-style fantasy park                          | Over-the-sea, **island-to-island** jungle & ocean views        |
+| ⛰️ **Altitude**        | ~200m → **1,400m above sea level**                                     | Lower elevation; mostly sea level to Hon Thom island           |
+| 📏 **Length**          | **~5.8 km** (through mountains)                                        | **~7.9 km** (world’s longest oversea cable car)                |
+| 🏅 **World Record**    | Multiple **Guinness Records** (longest single wire, highest elevation) | **Guinness Record**: Longest 3-wire oversea cable car          |
+| ⏱️ **Ride Duration**   | ~17–20 minutes                                                         | ~15 minutes                                                    |
+| 🎯 **Experience**      | Misty mountains, forest, fantasy park, **Golden Bridge**               | Ocean, islets, tropical islands, **nature park**               |
+| 🎡 **Destination**     | **Ba Na Hills**: French Village, Fantasy Park, Golden Bridge           | **Hon Thom Nature Park**, beach, water sports                  |
+| 🧭 **Best For**        | Fantasy vibes, cold air, Instagram spots                               | Beach lovers, tropical views, chill resort vibes               |
+| 📸 **Photo Vibes**     | Cloudy mountain peaks, giant hands, Europe-like village                | Island views, turquoise water, panoramic sea views             |
+| 🚕 **Access**          | 45-min drive from **Da Nang City**                                     | Fly/ferry to **Phú Quốc**, 30-min taxi to cable car station    |
+| 🕐 **Suggested Visit** | Morning or weekday (less fog, fewer crowds)                            | Any time, preferably sunny day for sea views                   |
+| 💸 **Ticket Price**    | ~750k–900k VND (₹2500–₹3000) includes entrance & cable car             | ~600k–750k VND (₹2000–₹2600), includes park access + roundtrip |
+
+
+|You Should Choose...|If You Want...|
+|---|---|
+|**Ba Na Hills Ropeway**|Fantasy, mountains, cold air, **Golden Bridge**, theme park vibes|
+|**Hon Thom Cable Car**|Tropical island, **ocean crossing**, stunning sea views, beach day|
+
+
+https://www.youtube.com/watch?v=jP6719DjJto&ab_channel=AnujBucket
+
+---
+
+
+Day - 1 :
+Ho Chi Min City
+Night : Flight to Da Nang
+
+Day - 2 to Day - 4
+Da Nang
+Night : Flight to Hanoi
+Hanoi ---> Halong Bay
+
+Day - 5 to Day - 7:
+Halong Bay
+Night : Back to Hanoi
+
+Day - 8 to Day - 9
+Hanoi
+Night : Back to Blr
+
+Things to do:
+- Book Hostel
+- Book InterCity Travels
+High Priority Ones:
+- Flights from HCMC to DaNang
+- Flights from DaNang to Hanoi
+
+
+1. Tamil
+2. Nami
+3. Ramzz
+4. Mallu
+5. Cibi
+6. Cow
+7. Naren
+
+4029 8600 0169 7024
+04/30  733
+
+
+Things to do 
+- [x] Vietnam E-Visa
+- [x] Book Tickets 
+
+- Use a selfie
+- 25-07-2025 To 04-08-2025
+- Ordinary Passport
+- Residential Address : Kon-Tiki Hostel, 12 Triệu Việt Vương, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam
+- Province : DaNang City
+- Ward : An Hai Ward
+- Intended Entry : HoChiMin
+- Intended Exit : Noi Bai
+
+
+
+![[Pasted image 20250713135950.png]]
+
+
+Vietnam E-Visa
+E250713INDX357267887
+tamilsudaravan@gmail.com
+9P5jbHvXtVr@j3f
+
+### Checklist
+
+#### Documents
+- [x] Passport
+- [x] E-Visa
+  - [x] Upload in Drive
+  - [x] Print out
+- [x] Emergency Contacts & Embassy Info
+
+#### Connectivity & Tech
+- [x] E-Sim/International Plan
+- [x] Power bank
+- [x] Power Adapted (If possible)
+- [ ] Install Apps
+  - [ ] *Grab* – for rides.
+  - [ ] *Klook* – book tours (a little pricey, but safe and reliable).
+
+#### Toiletries & Hygiene
+- [x] Toiletries
+  - [x] Brush
+  - [x] Mouthwash
+- [x] Wet Wipes / Tissues
+- [x] Hand sanitizer
+
+#### First-Aid & Health
+- [x] First-Aid
+  - [x] Dollo
+  - [x] Cetirizine
+  - [x] Band-Aids
+- [x] ORS / Electrolyte Sachets
+- [ ] Pain relief spray / balm
+- [ ] Mosquito repellent cream/spray
+
+#### Clothing & Accessories
+- [x] Raincoat
+- [x] Swimming Clothes (Goggle, Cap, Swimwear....)
+- [x] Towels + Dress
+- [x] Laundry bag (for used clothes)
+
+#### Misc
+- [x] Waterbottle
