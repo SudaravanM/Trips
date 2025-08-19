@@ -10,8 +10,7 @@
 1. Tamil 
 2. Krishna
 3. Nandha
-4. Antonson
-5. Sankeerth
+4. Sankeerth
 
 Thailand is in the **Indochina Time (ICT)** zone, which is **UTC +7**.  
 India is in **Indian Standard Time (IST)**, which is **UTC +5:30**.
